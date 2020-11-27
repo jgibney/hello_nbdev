@@ -1,8 +1,8 @@
-# hello_nbdev
-> Summary description here.
+# Welcome to hello_nbdev
+> Amazing tutorial here
 
 
-This file will become your README and also the index of your documentation.
+We hope you enjoy this project.
 
 ## Install
 
@@ -10,15 +10,15 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+Fill me in please! Don't forget code examples.  Let's see this at work.
 
 ```python
-1+1
+say_hello("Fred")
 ```
 
 
 
 
-    2
+    'Hello Fred'
 
 
